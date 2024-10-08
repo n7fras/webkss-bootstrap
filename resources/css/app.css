@@ -1,0 +1,7 @@
+/* Import Bootstrap terlebih dahulu */
+@import "bootstrap/dist/css/bootstrap.min.css";
+/* Tailwind directives, pastikan setelah Bootstrap */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
